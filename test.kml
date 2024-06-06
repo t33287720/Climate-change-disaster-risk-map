@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>test</name>
+	<gx:CascadingStyle kml:id="__managed_style_1839AE665930D41B124C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_065DE4346D30D41B124C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_07F592B4BC30D41B124B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_065DE4346D30D41B124C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_1839AE665930D41B124C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="01464F73A730D3580DFB">
+		<name>致理</name>
+		<LookAt>
+			<longitude>121.4644804863754</longitude>
+			<latitude>25.02250442824494</latitude>
+			<altitude>26.41665318326105</altitude>
+			<heading>359.1047476688283</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00008469169114</gx:fovy>
+			<range>1881.56140986277</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07F592B4BC30D41B124B</styleUrl>
+		<Point>
+			<coordinates>121.4651178770482,25.0211497648913,7.423737453769663</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DA2ACF01030D3B77E20">
+		<name>麥當勞</name>
+		<LookAt>
+			<longitude>121.4698040451883</longitude>
+			<latitude>25.02766374018032</latitude>
+			<altitude>4.78606351779856</altitude>
+			<heading>-37.77950090020461</heading>
+			<tilt>40.72644923109366</tilt>
+			<gx:fovy>30.00008469169114</gx:fovy>
+			<range>388.7254485999074</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07F592B4BC30D41B124B</styleUrl>
+		<Point>
+			<coordinates>121.4703737052113,25.0276429342515,10.79756157558016</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EC9EE552730D41B1259">
+		<name>第二級</name>
+		<LookAt>
+			<longitude>121.5510761851236</longitude>
+			<latitude>25.25798217054769</latitude>
+			<altitude>126.2396253089625</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00008469</gx:fovy>
+			<range>21569.11549845943</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_07F592B4BC30D41B124B</styleUrl>
+		<Point>
+			<coordinates>121.5411486654691,25.26165726144766,225.0870945264862</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
