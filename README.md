@@ -2,7 +2,7 @@
 =
 基於自身擁有之.kml檔案
 
-以 selenium 開啟風險圖台頁面
+以 selenium 開啟風險圖台頁面(https://dra.ncdr.nat.gov.tw/Frontend/Tools/ShowMapBoxWMS#)
 
 自行輸入並分析檔案內各處之風險級別
 
